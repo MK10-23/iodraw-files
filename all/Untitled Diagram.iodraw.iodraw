@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="970" y="1470" as="targetPoint" />
+            <mxPoint x="1120" y="1420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="971" y="210" />
             </Array>
@@ -141,7 +141,11 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="970" y="1470" as="targetPoint" />
+            <mxPoint x="970" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="865" y="1460" />
+              <mxPoint x="865" y="1471" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
