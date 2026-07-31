@@ -250,8 +250,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-79" value="宝元松开侧夹爪" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-81" target="phHcac_f2VQzql8Kv54J-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-81" value="等待第二个取料完成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-83" value="前进气缸旋转且回取料位置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
