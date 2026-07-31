@@ -193,7 +193,7 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-68" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phHcac_f2VQzql8Kv54J-67">
           <mxGeometry x="-0.5429" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-59" value="判断是否超越极限位置" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -208,8 +208,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-64" value="人工处理复位，取下镊子重新启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-66" target="phHcac_f2VQzql8Kv54J-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-66" value="滑台移到宝元取料位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-69" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
