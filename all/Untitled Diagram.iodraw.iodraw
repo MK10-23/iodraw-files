@@ -114,14 +114,25 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-34" target="phHcac_f2VQzql8Kv54J-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-41" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phHcac_f2VQzql8Kv54J-40">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-34" value="判断有无取料信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1097.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-35" target="phHcac_f2VQzql8Kv54J-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-35" value="发那科取成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-39" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-39" value="发那科继续抓取镊子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
