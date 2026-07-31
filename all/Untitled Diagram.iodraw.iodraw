@@ -23,15 +23,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="phHcac_f2VQzql8Kv54J-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="1465" as="targetPoint" />
             <mxPoint x="575" y="215" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="996" y="215" />
-              <mxPoint x="996" y="1405" />
-              <mxPoint x="1145" y="1405" />
-              <mxPoint x="1145" y="1465" />
+              <mxPoint x="996" y="1465" />
+              <mxPoint x="760" y="1465" />
             </Array>
           </mxGeometry>
         </mxCell>
