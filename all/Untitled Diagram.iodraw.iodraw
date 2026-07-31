@@ -31,7 +31,7 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-8" value="发那科触发，相机1拍照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-10" value="视觉处理：发送机器人坐标，发送拍照完成信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
