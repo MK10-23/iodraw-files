@@ -70,8 +70,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-20" value="放滑台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-22" target="phHcac_f2VQzql8Kv54J-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-22" value="发送放料完成信号（宝元给）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-24" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
