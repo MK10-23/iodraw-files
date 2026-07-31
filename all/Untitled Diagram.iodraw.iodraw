@@ -180,8 +180,19 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-57" value="等待拍照完成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="775" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-59" target="phHcac_f2VQzql8Kv54J-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-63" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phHcac_f2VQzql8Kv54J-62">
+          <mxGeometry x="-0.1667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-59" value="判断是否超越极限位置" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="905" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-61" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="915" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
