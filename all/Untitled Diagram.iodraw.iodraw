@@ -6,61 +6,62 @@
         <mxCell id="1" parent="0" />
         <mxCell id="phHcac_f2VQzql8Kv54J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-1" target="phHcac_f2VQzql8Kv54J-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="210" as="targetPoint" />
+            <mxPoint x="645" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-1" value="发那科" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-2" value="宝元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-5" target="phHcac_f2VQzql8Kv54J-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="270" as="targetPoint" />
+            <mxPoint x="645" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="phHcac_f2VQzql8Kv54J-42">
+        <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-5" target="phHcac_f2VQzql8Kv54J-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="795" y="1460" as="targetPoint" />
-            <mxPoint x="610" y="215" as="sourcePoint" />
+            <mxPoint x="950" y="1450" as="targetPoint" />
+            <mxPoint x="765" y="205" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1031" y="215" />
-              <mxPoint x="1031" y="1465" />
-              <mxPoint x="795" y="1465" />
-              <mxPoint x="795" y="1460" />
+              <mxPoint x="705" y="205" />
+              <mxPoint x="1186" y="205" />
+              <mxPoint x="1186" y="1455" />
+              <mxPoint x="950" y="1455" />
+              <mxPoint x="950" y="1450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="310" as="targetPoint" />
+            <mxPoint x="755" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="390" as="targetPoint" />
+            <mxPoint x="645" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-8" value="发那科触发，相机1拍照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-10" value="视觉处理：发送机器人坐标，发送拍照完成信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-12" target="phHcac_f2VQzql8Kv54J-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-12" value="发那科等待拍照完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.033;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-10" target="phHcac_f2VQzql8Kv54J-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="428" />
+              <mxPoint x="855" y="418" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,25 +69,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-16" value="抓取镊子" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-18" target="phHcac_f2VQzql8Kv54J-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-18" value="等待允许放料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-20" target="phHcac_f2VQzql8Kv54J-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-20" value="放滑台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-22" target="phHcac_f2VQzql8Kv54J-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-22" value="发送放料完成信号（宝元给）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-26">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +99,7 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="1145" as="targetPoint" />
+            <mxPoint x="815" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phHcac_f2VQzql8Kv54J-30">
@@ -107,13 +108,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-24" value="判断此时宝元是否在压机里工作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1090" width="150" height="110" as="geometry" />
+          <mxGeometry x="570" y="1080" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-26" target="phHcac_f2VQzql8Kv54J-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-26" value="等待取料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1305" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="1295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-34" target="phHcac_f2VQzql8Kv54J-35">
           <mxGeometry relative="1" as="geometry" />
@@ -132,19 +133,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-34" value="判断有无取料信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1097.5" width="80" height="95" as="geometry" />
+          <mxGeometry x="815" y="1087.5" width="80" height="95" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-35" target="phHcac_f2VQzql8Kv54J-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-35" value="发那科取成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1305" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="1295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-39" value="发那科继续抓取镊子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1115" width="120" height="60" as="geometry" />
+          <mxGeometry x="955" y="1105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
