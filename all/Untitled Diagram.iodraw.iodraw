@@ -174,8 +174,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-55" value="宝元触发相机2，拍照纠偏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="635" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-57" target="phHcac_f2VQzql8Kv54J-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-57" value="等待拍照完成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-59" value="判断是否超越极限位置" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="905" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
