@@ -131,7 +131,7 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-39" value="发那科继续抓取镊子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
