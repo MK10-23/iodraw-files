@@ -92,14 +92,15 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-22" value="发送放料完成信号（宝元给）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="815" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="1080" as="sourcePoint" />
-            <mxPoint x="745" y="1295" as="targetPoint" />
+            <mxPoint x="695" y="1135" as="sourcePoint" />
+            <mxPoint x="640" y="1295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="1140" />
-              <mxPoint x="780" y="1135" />
-              <mxPoint x="745" y="1135" />
+              <mxPoint x="695" y="1140" />
+              <mxPoint x="675" y="1140" />
+              <mxPoint x="675" y="1135" />
+              <mxPoint x="640" y="1135" />
             </Array>
           </mxGeometry>
         </mxCell>
