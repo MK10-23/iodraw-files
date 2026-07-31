@@ -168,8 +168,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-53" value="等待放料完成&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="495" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-55" target="phHcac_f2VQzql8Kv54J-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-55" value="宝元触发相机2，拍照纠偏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-57" value="等待拍照完成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="775" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
