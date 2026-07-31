@@ -20,13 +20,13 @@
             <mxPoint x="490" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1090" y="1470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-10">
           <mxGeometry relative="1" as="geometry">
