@@ -84,7 +84,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24">
+        <mxCell id="phHcac_f2VQzql8Kv54J-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1145" as="targetPoint" />
           </mxGeometry>
@@ -100,11 +100,8 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-26" value="等待取料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="1305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.425;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="1080" as="sourcePoint" />
-            <mxPoint x="414" y="1072" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="phHcac_f2VQzql8Kv54J-34" value="判断有无取料信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1105" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
