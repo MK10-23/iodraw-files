@@ -102,6 +102,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jM4aCfZkQLPkit475uBX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jM4aCfZkQLPkit475uBX-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jM4aCfZkQLPkit475uBX-2">
+          <mxGeometry x="-0.3951" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-24" value="判断此时宝元是否在压机里工作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="1080" width="150" height="110" as="geometry" />
         </mxCell>
