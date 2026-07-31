@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="phHcac_f2VQzql8Kv54J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-1" value="发那科" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-2" value="宝元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
