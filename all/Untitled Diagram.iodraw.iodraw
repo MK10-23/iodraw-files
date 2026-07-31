@@ -100,8 +100,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-26" value="等待取料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="1305" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-34" target="phHcac_f2VQzql8Kv54J-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-34" value="判断有无取料信号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1105" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="1097.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
