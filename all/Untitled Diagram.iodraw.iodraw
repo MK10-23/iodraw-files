@@ -208,7 +208,7 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-64" value="人工处理复位，取下镊子重新启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-66" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="phHcac_f2VQzql8Kv54J-66" value="滑台移到宝元取料位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
