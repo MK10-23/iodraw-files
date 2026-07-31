@@ -25,7 +25,10 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="1470" as="targetPoint" />
+            <mxPoint x="970" y="1470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="971" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-10">
@@ -135,6 +138,11 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-39" value="发那科继续抓取镊子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phHcac_f2VQzql8Kv54J-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="1470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1445" width="120" height="60" as="geometry" />
