@@ -93,7 +93,12 @@
           <mxGeometry x="585" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1243" />
+              <mxPoint x="645" y="1243" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="phHcac_f2VQzql8Kv54J-27" vertex="1" connectable="0">
           <mxGeometry x="-0.1619" relative="1" as="geometry">
