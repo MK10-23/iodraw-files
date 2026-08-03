@@ -70,6 +70,9 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-22" value="发送放料完成信号（宝元给）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q7yIn5lx7GtIfClFPuKK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-26" target="phHcac_f2VQzql8Kv54J-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-26" value="等待取料" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="915" width="120" height="60" as="geometry" />
         </mxCell>
@@ -84,13 +87,13 @@
             <mxPoint x="1287.5" y="1450" as="sourcePoint" />
             <mxPoint x="1200" y="-10" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1270" y="1450" />
+              <mxPoint x="1270" y="1200" />
               <mxPoint x="1270" y="-10" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1025" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-49" target="phHcac_f2VQzql8Kv54J-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
