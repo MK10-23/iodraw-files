@@ -36,15 +36,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="985" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="988" y="300" />
-              <mxPoint x="988" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-8" value="发那科触发，相机1拍照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -98,10 +89,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM4aCfZkQLPkit475uBX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-26">
+        <mxCell id="jM4aCfZkQLPkit475uBX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="phHcac_f2VQzql8Kv54J-24" target="phHcac_f2VQzql8Kv54J-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jM4aCfZkQLPkit475uBX-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jM4aCfZkQLPkit475uBX-2">
+        <mxCell id="jM4aCfZkQLPkit475uBX-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jM4aCfZkQLPkit475uBX-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3951" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
