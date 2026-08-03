@@ -250,7 +250,7 @@
         </mxCell>
         <mxCell id="q7yIn5lx7GtIfClFPuKK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="2020" as="targetPoint" />
+            <mxPoint x="590" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-83" value="前进气缸旋转且回取料位置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
