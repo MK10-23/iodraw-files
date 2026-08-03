@@ -81,27 +81,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jM4aCfZkQLPkit475uBX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="phHcac_f2VQzql8Kv54J-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="802.5" y="930" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="680" y="930" />
-              <mxPoint x="680" y="1295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jM4aCfZkQLPkit475uBX-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jM4aCfZkQLPkit475uBX-2" vertex="1" connectable="0">
-          <mxGeometry x="-0.3951" y="2" relative="1" as="geometry">
-            <mxPoint x="68" y="-47" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="phHcac_f2VQzql8Kv54J-26" target="phHcac_f2VQzql8Kv54J-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q7yIn5lx7GtIfClFPuKK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="1070" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-26" value="等待取料" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="880" width="120" height="60" as="geometry" />
