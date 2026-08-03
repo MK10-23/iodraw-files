@@ -248,7 +248,7 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-81" value="等待第二个取料完成" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q7yIn5lx7GtIfClFPuKK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-83">
+        <mxCell id="q7yIn5lx7GtIfClFPuKK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-83" target="phHcac_f2VQzql8Kv54J-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="230" as="targetPoint" />
           </mxGeometry>
