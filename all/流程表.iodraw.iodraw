@@ -43,9 +43,14 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-8" value="发那科触发，相机1拍照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="q7yIn5lx7GtIfClFPuKK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-10">
+        <mxCell id="q7yIn5lx7GtIfClFPuKK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-10" target="phHcac_f2VQzql8Kv54J-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="877.5" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="878" y="305" />
+              <mxPoint x="880" y="305" />
+              <mxPoint x="880" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-10" value="视觉处理：发送机器人坐标，发送拍照完成信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
