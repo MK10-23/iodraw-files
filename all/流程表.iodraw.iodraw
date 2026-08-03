@@ -59,13 +59,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-16" value="抓取镊子" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="815" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-18" target="phHcac_f2VQzql8Kv54J-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-18" value="等待允许放料" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="815" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-20" target="phHcac_f2VQzql8Kv54J-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
