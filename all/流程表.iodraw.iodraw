@@ -26,17 +26,6 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="1440" as="targetPoint" />
-            <mxPoint x="950" y="70" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="950" y="110" />
-              <mxPoint x="1446" y="110" />
-              <mxPoint x="1446" y="1415" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q7yIn5lx7GtIfClFPuKK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-8" target="phHcac_f2VQzql8Kv54J-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -127,6 +116,9 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-35" value="发那科取成品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1025" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7yIn5lx7GtIfClFPuKK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-42" target="phHcac_f2VQzql8Kv54J-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-42" value="放置成品" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1025" y="1420" width="120" height="60" as="geometry" />
