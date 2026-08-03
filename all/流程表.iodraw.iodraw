@@ -197,6 +197,9 @@
         <mxCell id="phHcac_f2VQzql8Kv54J-61" value="报警" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q7yIn5lx7GtIfClFPuKK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-64" target="phHcac_f2VQzql8Kv54J-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-64" value="人工处理复位，取下镊子重新启动" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
