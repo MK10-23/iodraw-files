@@ -6,11 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="phHcac_f2VQzql8Kv54J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="phHcac_f2VQzql8Kv54J-1" target="phHcac_f2VQzql8Kv54J-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="875" y="100" as="targetPoint" />
+            <mxPoint x="877.5" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-1" value="发那科" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="-20" width="120" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-2" target="phHcac_f2VQzql8Kv54J-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,11 +20,11 @@
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="phHcac_f2VQzql8Kv54J-5" target="phHcac_f2VQzql8Kv54J-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="875" y="160" as="targetPoint" />
+            <mxPoint x="877.5" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-5" value="检测料盘到位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="817.5" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -38,15 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-8" value="发那科触发，相机1拍照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q7yIn5lx7GtIfClFPuKK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="phHcac_f2VQzql8Kv54J-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="260" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="817.5" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-10" value="视觉处理：发送机器人坐标，发送拍照完成信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="310" width="125" height="60" as="geometry" />
+          <mxGeometry x="815" y="260" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="phHcac_f2VQzql8Kv54J-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="phHcac_f2VQzql8Kv54J-12" target="phHcac_f2VQzql8Kv54J-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
